@@ -1,0 +1,20 @@
+{
+  "name": "moviescraper",
+  "version": "1.0.0",
+  "description": "An example project that scrapes movie information from imdb (which is publicly available) and stores them in Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --delay 500ms index.js"
+  },
+  "author": "ubh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.4",
+    "nodemon": "^2.0.14"
+  }
+}
