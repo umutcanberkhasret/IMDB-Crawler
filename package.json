@@ -1,5 +1,5 @@
 {
-  "name": "moviescraper",
+  "name": "IMDB-Crawler",
   "version": "1.0.0",
   "description": "An example project that scrapes movie information from imdb (which is publicly available) and stores them in Mongodb",
   "main": "index.js",
