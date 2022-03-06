@@ -1,6 +1,6 @@
-# IMDB Scraper
+# IMDB Crawler
 
-This crawler scraped IMDB's Top 250 Movies and TV Series along with the most popular movies. Scraped data can be stored in Mongo by adding related entries to .env file
+This crawler scrapes IMDB's Top 250 Movies and TV Series along with the most popular movies. Scraped data can be stored in Mongo by adding related entries to .env file
 
 	MONGO_USERNAME="username"
 	MONGO_PASSWORD="password"
